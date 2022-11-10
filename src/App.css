@@ -7,10 +7,28 @@
     height: 100px;
 
     }
-    
+
+    .blog{
+        border: solid 1px rgb(0, 0, 0,0.2);
+        padding: 5px;
+        font-size: 14px;
+        margin: 10px;
+        background: rgba(0, 0, 0, 0.2);
+      }
+      .blog span{
+        display: inline-block;
+        vertical-align: top;
+        border:  solid 1px black;
+        border-radius: 10px;
+        padding: 5px;
+        margin: 2px;
+      }
 .blog span img{width:100px;}
 .blog h3 img{
 width:250px;
+}
+.blog h3,h4{
+    font-size: 20px;
 }
 h2 a{
 font-size:20px;

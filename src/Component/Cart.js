@@ -2,7 +2,7 @@ import React from 'react';
 import { Link } from 'react-router-dom';
 import '../App.css';
 const Cart = (data) => {
-console.log(data.data);
+//console.log(data.data);
     return (
         <div className='blog'>
 <h2>Product Name :-  
